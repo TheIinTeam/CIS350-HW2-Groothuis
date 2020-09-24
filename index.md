@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/TheIinTeam/CIS350-HW2-Groothuis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jack Groothuis. I was born in Holland, MI back when everyone was getting over the Y2K bug crisis. My hobbies include learning languages, listening to multiple genres of music, and playing video games. I am currently a full-time student studying for a BA in Computer Science and a minor in Chinese Language and Culture
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+- Lakeshore Elementary School (k-5)
+- Black River Public School (6-10)
+- West Ottawa Public School (10-12)
+- Grand Valley State University (ongoing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Language Experience
+- Natural
+  - English (Native)
+  - Spanish (AP)
+  - Chinese (Beginner)
+- Programming
+  - Java (experienced)
+  - Python (intermediate)
+  - C++ (beginner)
+  - HTML/CSS (intermediate)
 
-```markdown
-Syntax highlighted code block
+## Misc. (more details)
 
-# Header 1
-## Header 2
-### Header 3
+### Favorite Music Genres (and artist)
 
-- Bulleted
-- List
+1. Alternative Rock/Hip-Hop (tie between Radiohead and Gorillaz)
+2. Hip-hop (tie between Travis Scott and Lil Uzi Vert)
+3. Classic Rock (Queen)
 
-1. Numbered
-2. List
+### Favorite Video Games (2020)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheIinTeam/CIS350-HW2-Groothuis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. osu! (I prefer mania)
+2. Minecraft
+3. Enter the Gungeon
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Note: Please use this contact info for educational or business-related purposes only. Anything seen otherwise will be ignored and/or deleted.
+
+Email: groothuj@mail.gvsu.edu
+Discord: Jack G.#9462
