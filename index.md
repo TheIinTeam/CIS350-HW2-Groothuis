@@ -39,4 +39,5 @@ My name is Jack Groothuis. I was born in Holland, MI back when everyone was gett
 Note: Please use this contact info for educational or business-related purposes only. Anything seen otherwise will be ignored and/or deleted.
 
 Email: groothuj@mail.gvsu.edu
+
 Discord: Jack G.#9462
