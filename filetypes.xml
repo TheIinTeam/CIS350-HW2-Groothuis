@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="ListModelTest" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping ext="mp4" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
